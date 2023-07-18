@@ -4,6 +4,6 @@ A database is an organized collection of data that is structured and stored in a
 
 There are different types of databases, but the most commonly used ones fall into two main categories:
 
-Relational Databases: In this type of database, data is organized into tables with rows and columns, forming a structured format. The relationship between tables is defined through keys (primary and foreign keys), enabling data retrieval through SQL (Structured Query Language) queries.
+1. Relational Databases: In this type of database, data is organized into tables with rows and columns, forming a structured format. The relationship between tables is defined through keys (primary and foreign keys), enabling data retrieval through SQL (Structured Query Language) queries.
 
-Non-Relational Databases: These databases store data in various formats, such as key-value pairs, documents, graphs, or wide-column stores. They are more flexible and scalable than relational databases, making them suitable for handling large volumes of unstructured or semi-structured data.
+2. Non-Relational Databases: These databases store data in various formats, such as key-value pairs, documents, graphs, or wide-column stores. They are more flexible and scalable than relational databases, making them suitable for handling large volumes of unstructured or semi-structured data.
