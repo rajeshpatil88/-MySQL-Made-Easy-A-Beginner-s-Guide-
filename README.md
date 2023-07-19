@@ -75,6 +75,8 @@ MySQL is one of the most popular open-source relational database management syst
 
 MySQL is widely used for various applications, including web development, content management systems, e-commerce platforms, data analytics, and more. It supports multiple operating systems and has extensive community support and documentation.
 
+---
+
 **3. Setting Up the MySQL Environment:**
 
 To set up the MySQL environment, follow these steps:
