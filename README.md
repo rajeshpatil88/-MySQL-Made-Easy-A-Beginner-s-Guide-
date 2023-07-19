@@ -4,51 +4,50 @@
 "Welcome to 'MySQL Made Easy,' a beginner-friendly repository aimed at helping individuals learn MySQL from scratch. This comprehensive six-file tutorial series covers essential concepts, practical examples, and hands-on exercises to get you started on your journey to becoming a proficient MySQL developer. Whether you're a complete beginner or looking to brush up on your skills, this repo is designed to make your learning experience smooth and enjoyable. Let's dive into the world of databases and unlock the power of MySQL together!"
 
 =============================
-
 Table of Contents
-
-1. Introduction to Databases
-   1.1 Relational Databases
-   1.2 Non-Relational Databases
-2. Introduction to MySQL
-   2.1 Overview
-   2.2 Features
-   2.3 Applications
-3. Setting Up the MySQL Environment
-   3.1 Install MySQL
-   3.2 Configure MySQL
-   3.3 Start MySQL Server
-   3.4 Verify Installation
-4. Constraints and Data Types in MySQL
-   4.1 Constraints
-      4.1.1 PRIMARY KEY
-      4.1.2 FOREIGN KEY
-      4.1.3 UNIQUE
-      4.1.4 NOT NULL
-      4.1.5 CHECK
-   4.2 Data Types
-      4.2.1 Numeric Types
-      4.2.2 Character/String Types
-      4.2.3 Date and Time Types
-      4.2.4 Boolean Type
-      4.2.5 Binary Data Types
-5. Joins and its Types in MySQL
-   5.1 Joins in MySQL
-   5.2 Types of Joins
-      5.2.1 INNER JOIN
-      5.2.2 LEFT JOIN (or LEFT OUTER JOIN)
-      5.2.3 RIGHT JOIN (or RIGHT OUTER JOIN)
-      5.2.4 FULL JOIN (or FULL OUTER JOIN)
-6. Subqueries in MySQL
-   6.1 Subqueries
-      6.1.1 Single-Row Subquery
-      6.1.2 Multi-Row Subquery
-      6.1.3 Correlated Subquery
-7. Stored Procedures and Triggers in MySQL
-   7.1 Stored Procedures
-      7.1.1 Advantages of Stored Procedures
-   7.2 Triggers
-      7.2.1 Purposes of Triggers
+-----------------
+- [Introduction to Databases](#1-introduction-to-databases)
+  - [1.1 Relational Databases](#11-relational-databases)
+  - [1.2 Non-Relational Databases](#12-non-relational-databases)
+- [Introduction to MySQL](#2-introduction-to-mysql)
+  - [2.1 Overview](#21-overview)
+  - [2.2 Features](#22-features)
+  - [2.3 Applications](#23-applications)
+- [Setting Up the MySQL Environment](#3-setting-up-the-mysql-environment)
+  - [3.1 Install MySQL](#31-install-mysql)
+  - [3.2 Configure MySQL](#32-configure-mysql)
+  - [3.3 Start MySQL Server](#33-start-mysql-server)
+  - [3.4 Verify Installation](#34-verify-installation)
+- [Constraints and Data Types in MySQL](#4-constraints-and-data-types-in-mysql)
+  - [4.1 Constraints](#41-constraints)
+    - [4.1.1 PRIMARY KEY](#411-primary-key)
+    - [4.1.2 FOREIGN KEY](#412-foreign-key)
+    - [4.1.3 UNIQUE](#413-unique)
+    - [4.1.4 NOT NULL](#414-not-null)
+    - [4.1.5 CHECK](#415-check)
+  - [4.2 Data Types](#42-data-types)
+    - [4.2.1 Numeric Types](#421-numeric-types)
+    - [4.2.2 Character/String Types](#422-characterstring-types)
+    - [4.2.3 Date and Time Types](#423-date-and-time-types)
+    - [4.2.4 Boolean Type](#424-boolean-type)
+    - [4.2.5 Binary Data Types](#425-binary-data-types)
+- [Joins and its Types in MySQL](#5-joins-and-its-types-in-mysql)
+  - [5.1 Joins in MySQL](#51-joins-in-mysql)
+  - [5.2 Types of Joins](#52-types-of-joins)
+    - [5.2.1 INNER JOIN](#521-inner-join)
+    - [5.2.2 LEFT JOIN (or LEFT OUTER JOIN)](#522-left-join-or-left-outer-join)
+    - [5.2.3 RIGHT JOIN (or RIGHT OUTER JOIN)](#523-right-join-or-right-outer-join)
+    - [5.2.4 FULL JOIN (or FULL OUTER JOIN)](#524-full-join-or-full-outer-join)
+- [Subqueries in MySQL](#6-subqueries-in-mysql)
+  - [6.1 Subqueries](#61-subqueries)
+    - [6.1.1 Single-Row Subquery](#611-single-row-subquery)
+    - [6.1.2 Multi-Row Subquery](#612-multi-row-subquery)
+    - [6.1.3 Correlated Subquery](#613-correlated-subquery)
+- [Stored Procedures and Triggers in MySQL](#7-stored-procedures-and-triggers-in-mysql)
+  - [7.1 Stored Procedures](#71-stored-procedures)
+    - [7.1.1 Advantages of Stored Procedures](#711-advantages-of-stored-procedures)
+  - [7.2 Triggers](#72-triggers)
+    - [7.2.1 Purposes of Triggers](#721-purposes-of-triggers)
 
 ---
 
