@@ -3,7 +3,7 @@
 0. Commenting Code in MySQL:
 
 - In MySQL, you can add comments to your SQL statements to make the code more readable and to explain the purpose of specific queries. 
-- Comments in MySQL start with '--' for single-line comments or /* and */ for multi-line comments.
+- Comments in MySQL start with '--' for single-line comments or for multi-line comments use - /* and * /
 */
 
 /*
