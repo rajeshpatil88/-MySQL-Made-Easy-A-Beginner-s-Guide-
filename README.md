@@ -8,54 +8,48 @@
 Table of Contents
 ------------------------
 
-1. Introduction to Databases
-   1.1 Relational Databases
-   1.2 Non-Relational Databases
-
-2. Introduction to MySQL
-   2.1 Overview
-   2.2 Features
-   2.3 Applications
-
-3. Setting Up the MySQL Environment
-   3.1 Install MySQL
-   3.2 Configure MySQL
-   3.3 Start MySQL Server
-   3.4 Verify Installation
-
-4. Constraints and Data Types in MySQL
-   4.1 Constraints
-       4.1.1 PRIMARY KEY
-       4.1.2 FOREIGN KEY
-       4.1.3 UNIQUE
-       4.1.4 NOT NULL
-       4.1.5 CHECK
-   4.2 Data Types
-       4.2.1 Numeric Types
-       4.2.2 Character/String Types
-       4.2.3 Date and Time Types
-       4.2.4 Boolean Type
-       4.2.5 Binary Data Types
-
-5. Joins and its Types in MySQL
-   5.1 Joins in MySQL
-   5.2 Types of Joins
-       5.2.1 INNER JOIN
-       5.2.2 LEFT JOIN (or LEFT OUTER JOIN)
-       5.2.3 RIGHT JOIN (or RIGHT OUTER JOIN)
-       5.2.4 FULL JOIN (or FULL OUTER JOIN)
-
-6. Subqueries in MySQL
-   6.1 Subqueries
-       6.1.1 Single-Row Subquery
-       6.1.2 Multi-Row Subquery
-       6.1.3 Correlated Subquery
-
-7. Stored Procedures and Triggers in MySQL
-   7.1 Stored Procedures
-       7.1.1 Advantages of Stored Procedures
-   7.2 Triggers
-       7.2.1 Purposes of Triggers
+1. [Introduction to Databases](#introduction-to-databases)
+   1.1 [Relational Databases](#relational-databases)
+   1.2 [Non-Relational Databases](#non-relational-databases)
+2. [Introduction to MySQL](#introduction-to-mysql)
+   2.1 [Overview](#overview)
+   2.2 [Features](#features)
+   2.3 [Applications](#applications)
+3. [Setting Up the MySQL Environment](#setting-up-the-mysql-environment)
+   3.1 [Install MySQL](#install-mysql)
+   3.2 [Configure MySQL](#configure-mysql)
+   3.3 [Start MySQL Server](#start-mysql-server)
+   3.4 [Verify Installation](#verify-installation)
+4. [Constraints and Data Types in MySQL](#constraints-and-data-types-in-mysql)
+   4.1 [Constraints](#constraints)
+      4.1.1 [PRIMARY KEY](#primary-key)
+      4.1.2 [FOREIGN KEY](#foreign-key)
+      4.1.3 [UNIQUE](#unique)
+      4.1.4 [NOT NULL](#not-null)
+      4.1.5 [CHECK](#check)
+   4.2 [Data Types](#data-types)
+      4.2.1 [Numeric Types](#numeric-types)
+      4.2.2 [Character/String Types](#characterstring-types)
+      4.2.3 [Date and Time Types](#date-and-time-types)
+      4.2.4 [Boolean Type](#boolean-type)
+      4.2.5 [Binary Data Types](#binary-data-types)
+5. [Joins and its Types in MySQL](#joins-and-its-types-in-mysql)
+   5.1 [Joins in MySQL](#joins-in-mysql)
+   5.2 [Types of Joins](#types-of-joins)
+      5.2.1 [INNER JOIN](#inner-join)
+      5.2.2 [LEFT JOIN (or LEFT OUTER JOIN)](#left-join-or-left-outer-join)
+      5.2.3 [RIGHT JOIN (or RIGHT OUTER JOIN)](#right-join-or-right-outer-join)
+      5.2.4 [FULL JOIN (or FULL OUTER JOIN)](#full-join-or-full-outer-join)
+6. [Subqueries in MySQL](#subqueries-in-mysql)
+   6.1 [Subqueries](#subqueries)
+      6.1.1 [Single-Row Subquery](#single-row-subquery)
+      6.1.2 [Multi-Row Subquery](#multi-row-subquery)
+      6.1.3 [Correlated Subquery](#correlated-subquery)
+7. [Stored Procedures and Triggers in MySQL](#stored-procedures-and-triggers-in-mysql)
+   7.1 [Stored Procedures](#stored-procedures)
+      7.1.1 [Advantages of Stored Procedures](#advantages-of-stored-procedures)
+   7.2 [Triggers](#triggers)
+      7.2.1 [Purposes of Triggers](#purposes-of-triggers)
 
 
 ---
