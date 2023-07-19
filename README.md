@@ -7,6 +7,7 @@
 
 Table of Contents
 ------------------------
+
 1. Introduction to Databases
    1.1 Relational Databases
    1.2 Non-Relational Databases
@@ -55,8 +56,6 @@ Table of Contents
        7.1.1 Advantages of Stored Procedures
    7.2 Triggers
        7.2.1 Purposes of Triggers
-
-
 
 
 **1. Introduction to Databases:**
